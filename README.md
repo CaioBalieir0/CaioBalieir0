@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6366F1&center=true&vAlign=true&height=80&lineHeight=1&width=500&lines=Caio+Balieiro+%7C+Jr.+Full+Stack+Developer" alt="Caio Balieiro | Jr. Full Stack Developer" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Caio+Balieiro+%7C+Jr.+Full+Stack+Developer" />  </a>
 </h1>
 
 <p align="center">
@@ -17,17 +16,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats	
 
 <p align="center">
   <a href="https://github.com/caiobalieir0">
-    <img src="https://github-readme-stats.vercel.app/api?username=CaioBalieir0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=bcbfc7" />
-  </a>
-  <a href="https://github.com/caiobalieir0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBalieir0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=bcbfc7" />
-  </a>
-  <a href="https://github.com/caiobalieir0">
-    <img src="https://github-readme-stats.vercel.app/api/streak-stats?username=CaioBalieir0&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=bcbfc7" />
+    <img
+      src="https://streak-stats.demolab.com?user=caiobalieir0&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=bcbfc7"
+      height="180"
+    />
   </a>
 </p>
 
@@ -109,5 +105,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/gh-pvc/?username=CaioBalieir0&label=Profile+Views&style=for-the-badge&logoColor=6366f1&labelColor=8b5cf6" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiobalieir0&theme=react-dark&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=22d3ee" />
 </p>
