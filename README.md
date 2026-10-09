@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Guaratinguet%C3%A1%2C%20SP-22d3ee?style=for-the-badge&logo=pin&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-4ade80?style=for-the-badge&labelColor=0d1117&logoColor=4ade80" />
+<img src="https://img.shields.io/badge/-São%20José%20dos%20Campos%2C%20SP-22d3ee?style=for-the-badge&logo=pin&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/-Open%20to%20Work-4ade80?style=for-the-badge&labelColor=0d1117&logoColor=4ade80" />
 </p>
 
 ---
